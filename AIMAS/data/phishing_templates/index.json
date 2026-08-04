@@ -1,0 +1,32 @@
+{
+  "social_media_sample": {
+    "name": "Social Media Sample",
+    "category": "Social Media",
+    "file": "Social Media/sample.html"
+  },
+  "email_sample": {
+    "name": "Email Sample",
+    "category": "Email",
+    "file": "Email/sample.html"
+  },
+  "banking_sample": {
+    "name": "Banking Sample",
+    "category": "Banking",
+    "file": "Banking/sample.html"
+  },
+  "shopping_sample": {
+    "name": "Shopping Sample",
+    "category": "Shopping",
+    "file": "Shopping/sample.html"
+  },
+  "vpn_sample": {
+    "name": "VPN Sample",
+    "category": "VPN",
+    "file": "VPN/sample.html"
+  },
+  "custom_sample": {
+    "name": "Custom Sample",
+    "category": "Custom",
+    "file": "Custom/sample.html"
+  }
+}

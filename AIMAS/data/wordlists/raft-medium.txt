@@ -1,0 +1,11 @@
+index.php
+admin
+login
+wp-admin
+backup
+config
+test
+css
+js
+images
+upload

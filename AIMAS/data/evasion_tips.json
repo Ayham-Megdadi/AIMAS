@@ -1,0 +1,11 @@
+{
+    "Cloudflare": "Use IP rotation, try different encoding (double URL encoding), or use API endpoints that may not be protected.",
+    "ModSecurity": "Use case transformation, add junk data to bypass regex rules, or use SQL injection with hex encoding.",
+    "Sucuri": "Try using HTTP methods other than GET/POST, or add parameter pollution.",
+    "Imperva": "Use slow requests, or try to bypass with path traversal tricks.",
+    "Akamai": "Try to use mobile user agents or different TLS ciphers.",
+    "AWS CloudFront": "Use origin IP discovery via historical DNS records.",
+    "Fastly CDN": "Use variant encoding, or find unprotected staging domains.",
+    "F5 BIG-IP": "Use parameter name fuzzing to find unprotected parameters.",
+    "Azure Front Door": "Try using different host headers or IP spoofing techniques."
+}
