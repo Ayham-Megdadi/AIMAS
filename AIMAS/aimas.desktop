@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AIMAS
+Comment=Advanced Intelligence & Multi-purpose Attack Suite
+Exec=/home/kali/Desktop/AIMAS/run_aimas.sh
+Icon=/home/kali/Desktop/AIMAS/aimas_icon.png
+Terminal=false
+Categories=Network;Security;
+StartupWMClass=AIMAS

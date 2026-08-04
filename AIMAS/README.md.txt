@@ -1,0 +1,13 @@
+PyQt6
+psutil
+pycryptodome
+netifaces
+requests
+dnspython
+phonenumbers
+Pillow
+numpy
+beautifulsoup4
+pyngrok
+qrcode
+weasyprint
